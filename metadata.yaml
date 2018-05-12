@@ -1,0 +1,48 @@
+_repo: Georges-Guynemer--Knight-of-the-Air_18117
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Roosevelt, Theodore
+    aliases:
+    - United States President (1901-1909)
+    - Roosevelt, Teddy
+    birthdate: 1858
+    deathdate: 1919
+    gutenberg_agent_id: '729'
+    url: http://www.gutenberg.org/2009/agents/729
+    wikipedia: http://en.wikipedia.org/wiki/Theodore_Roosevelt
+  translator:
+    agent_name: Sill, Louise Morgan
+    gutenberg_agent_id: '7816'
+    url: http://www.gutenberg.org/2009/agents/7816
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bordeaux, Henry
+    aliases:
+    - Bordeaux, Enrique
+    - Bordeaux, Henri
+    birthdate: 1870
+    deathdate: 1963
+    gutenberg_agent_id: '4478'
+    url: http://www.gutenberg.org/2009/agents/4478
+    wikipedia: http://fr.wikipedia.org/wiki/Henry_Bordeaux
+description: ''
+gutenberg_issued: '2006-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18117'
+  lccn: '18021694'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'Air pilots -- France -- Biography'
+- !lcsh 'Guynemer, Georges, 1894-1917'
+- !lcsh 'World War, 1914-1918 -- Aerial operations'
+title: 'Georges Guynemer: Knight of the Air'
+url: http://www.gutenberg.org/ebooks/18117
